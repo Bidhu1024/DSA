@@ -2,3 +2,4 @@
 -- Largest Number completed
 -- Reverse an Array completed 
 --Second Max
+-- Remove occurences completed
